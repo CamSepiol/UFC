@@ -1,0 +1,13 @@
+name: UFC_StatsViz
+title: UFC_StatsViz
+username:
+account: camwisdom
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 918234
+bundleId: 2070062
+url: https://camwisdom.shinyapps.io/UFC_StatsViz/
+when: 1557335885.61326
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: finishDetails.csv|finishDetails.txt
